@@ -1,7 +1,7 @@
 # Educational SEB Tampering Proof of Concept (PoC)
 
 **Author:** Earl Donkey
-**Context:** Boredom, and desire for class points
+**Context:** Boredom, and this unfathomable hunger for class points
 **Disclaimer:** This tool was created strictly for educational purposes to understand .NET assembly structures, anti-tamper mechanisms, and payload delivery. It is intended to be used only in isolated, offline virtual machines. I do not condone or support using this tool to violate academic integrity policies or bypass exam security in live environments.
 
 ## Overview
